@@ -1,4 +1,4 @@
-# Unicode v7.0.0 data
+# Unicode v7.0.0 data [![@unicode/unicode-7.0.0 on npm](https://img.shields.io/npm/v/@unicode/unicode-7.0.0)](https://www.npmjs.com/package/@unicode/unicode-7.0.0)
 
 JavaScript-compatible Unicode data for use in Node.js. Included: arrays of code points, arrays of symbols, and regular expressions for Unicode v7.0.0’s categories, scripts, script extensions, blocks, and properties, as well as bidi mirroring and case folding data.
 
