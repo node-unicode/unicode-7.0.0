@@ -1,0 +1,1 @@
+module.exports=['\uD802\uDE01','\uD802\uDE06']
